@@ -2,5 +2,6 @@
 int maint()
 {
 printf("hello Git!");
+printf("ok");
 return 0;
 }
